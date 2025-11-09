@@ -1,10 +1,8 @@
 <h2 align="center">
 👋 Hi there, I'm <span style="color:#00bcd4">Mina Kamil</span>  
-🚀 Senior Flutter Developer
+🚀 Senior Flutter Developer | Mobile App Developer | Software Engineer
 </h2>
-<h3 align="center">Flutter Developer | Mobile App Developer | Software Developer</h3>
 
-<p align="center">I am passionate about building beautiful, high-performance cross-platform applications.</p>
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="developer gif"/>
 </p>
@@ -12,17 +10,46 @@
 ---
 
 ### 💼 About Me
-- 🔭 Currently working as a Senior Flutter developer
-- 🌐 Check out my projects at [My Portfolio](https://www.compiled-thoughts.tech/about)
-- 💬 Ask me about Flutter and Dart
-- 📫 Reach me at minakamil.dev8@gmail.com
-- 📄 Learn more about my experiences [here](https://drive.google.com/file/d/172l4bZZRmdfSB5dM6Gy9lSXt9XPnjaSO/view?usp=sharing)
-  
-#I'm a **Computer Science graduate** and **professional Flutter developer** with hands-on experience in developing cross-platform mobile apps using **Flutter, Firebase, and modern clean architecture**.  
-Passionate about writing clean, maintainable code and building applications that deliver performance, scalability, and beautiful UI/UX.
+I'm a **Computer Science graduate** and **professional Flutter developer** passionate about building elegant, high-performance, and scalable mobile applications.  
+I focus on **clean architecture**, **modern UI**, and **smooth user experience** with real production apps published on Google Play.
 
-I've trained with **Orange Digital Center** and **Machinfy Academy**, participated in **ICPC programming contests**, and completed multiple professional **Flutter certifications**.  
-I build real-world apps that combine **creativity, solid architecture, and production-ready code**.
+- 🔭 Currently working as a Senior Flutter Developer  
+- 💬 Ask me about Flutter, Firebase, and Clean Architecture  
+- 🌐 Portfolio: [compiled-thoughts.tech](https://www.compiled-thoughts.tech/about)  
+- 📫 Email: [minakamil.dev8@gmail.com](mailto:minakamil.dev8@gmail.com)  
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/172l4bZZRmdfSB5dM6Gy9lSXt9XPnjaSO/view?usp=sharing)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌟 [**Aner & Astaner App**](https://play.google.com/store/apps/details?id=com.minakamil.dev.aner_astaner)
+Christian educational quiz and verse-ordering app with Firebase, music, drag & drop, and leaderboard.  
+**Tech:** Flutter, Firebase, Provider, Imgbb API  
+
+---
+
+#### 🍕 [**King Slice**](https://play.google.com/store/apps/details?id=com.kingslice_pizza.app)
+Food ordering app with responsive UI, Google & Apple auth, and integrated payments.  
+**Tech:** Flutter, Dart, Dio, Riverpod, Go Router  
+
+---
+
+#### 🐟 [**Alostora Seafood**](https://play.google.com/store/apps/details?id=com.alostora_seafood.app)
+Restaurant app for seafood delivery with full eCommerce backend.  
+**Tech:** Flutter, Dart, Firebase, RESTful APIs  
+
+---
+
+#### 🧭 [**Traveling App**](https://github.com/Mina8496/Traveling_app)
+Travel guide with trip planning, Google Maps, and recommendations.  
+**Tech:** Flutter, Firebase, REST APIs  
+
+---
+
+#### 🗣️ [**Language Learning App**](https://github.com/Mina8496/Language-Learning-App)
+Interactive language learning app with quizzes and progress tracking.  
+**Tech:** Flutter, Firebase  
 
 ---
 
@@ -30,39 +57,14 @@ I build real-world apps that combine **creativity, solid architecture, and produ
 
 | Area | Skills |
 |------|---------|
-| **Flutter Development:** | Expert in developing mobile applications using Flutter. |
-| **Programming Languages** | Dart, JavaScript, C++, Java, Python, HTML, CSS, PHP |
-| **Bloc/Cubit State Management:** | Experienced in state management with Bloc/Cubit architecture|
-| **Frameworks & Architecture** | Flutter, Bloc, Cubit, Provider, MVC, MVVM, Clean Architecture |
-| **Backend & Databases** | Firebase, Supabase, MySQL, SQLite, Hive, Shared Preferences |
-| **APIs & Integrations** | RESTful APIs, Stripe, PayPal, Paymob, Third-Party SDKs |
-| **Tools & Platforms** | Git, GitHub, Postman, CI/CD pipelines, VS Code, Android Studio |
-| **UI/UX & Design** | Responsive Design, Animations, Lottie, Rive, Material Design, Figma, Photoshop |
-| **Soft Skills** | Teamwork, Problem Solving, Adaptability, Communication |
-
----
-
-### 🚀 Featured Projects
-
-#### 🌟 [**Aner & Astaner App**](https://play.google.com/store/apps/details?id=com.minakamil.dev.aner_astaner)
-Christian educational quiz and verse-ordering app with Firebase integration, drag-and-drop UI, music, and leaderboard.  
-**Tech:** Flutter, Firebase, Provider, Imgbb API.
-
-#### 📖 **Bible Exam Platform**
-Exam and quiz app for churches with Firebase Auth, Firestore, results analytics, and leaderboard filtering.  
-**Tech:** Flutter, Firebase, Bloc, Responsive UI.
-
-#### 🧭 [**Traveling App**](https://github.com/Mina8496/Traveling_app)
-Travel guide app with trip planning, recommendations, and interactive map integration.  
-**Tech:** Flutter, Firebase, REST APIs.
-
-#### 🗣️ [**Language Learning App**](https://github.com/Mina8496/Language-Learning-App)
-Interactive app for learning new languages with quizzes and progress tracking.  
-**Tech:** Flutter, Firebase, Dart.
-
-#### 🏀 [**Basketball Points Counter**](https://github.com/Mina8496/Basketball-Points-Counter-App)
-Workshop project for tracking basketball scores in real-time.  
-**Tech:** Flutter, Dart.
+| **Mobile Development:** | Flutter, Dart, Android, iOS |
+| **State Management:** | Bloc, Cubit, Provider, Riverpod |
+| **Architecture:** | MVC, MVVM, Clean Architecture |
+| **Backend & Databases:** | Firebase, Supabase, MySQL, SQLite, Hive |
+| **APIs & Integrations:** | RESTful APIs, Stripe, PayPal, Paymob |
+| **UI/UX & Design:** | Responsive Design, Animations, Lottie, Rive, Figma |
+| **Tools:** | Git, GitHub, VS Code, Android Studio, Postman, CI/CD |
+| **Other Languages:** | JavaScript, C++, Java, Python, PHP, HTML, CSS |
 
 ---
 
@@ -72,9 +74,8 @@ Workshop project for tracking basketball scores in real-time.
 - **Mastering Flutter: Responsive & Adaptive UI (Udemy)**  
 - **Flutter Payment Integration – Stripe, PayPal, Paymob (Udemy)**  
 - **Google Maps Integration in Flutter (Udemy)**  
-- **Flutter Workshop – Orange Digital Center (2022)**  
-- **Flutter Workshop – Machinfy Academy (2023)**  
-- **ICPC Collegiate Programming Contest – Qualification Round (2022)**  
+- **Flutter Workshops – Orange Digital Center & Machinfy Academy**  
+- **ICPC Programming Contest Participant (2022)**  
 
 ---
 
@@ -83,20 +84,19 @@ Workshop project for tracking basketball scores in real-time.
 **Bachelor of Science in Computers and Information**  
 Arab Open University (AOU Egypt) – *2019–2023*  
 GPA: 2.73 (Good)  
-**Graduation Project:** Personality Pattern Analysis App using Flutter + AI (NLP).  
-**Status:** Military service completed.  
+Graduation Project: Personality Pattern Analysis App (Flutter + AI NLP)  
+Status: Military service completed  
 
 ---
 
-### 🧩 Technical Snapshot
+### 🧩 Developer Snapshot
 
 ```dart
 final minaKamil = Developer(
   role: "Senior Flutter & Firebase Developer",
   degree: "B.Sc. Computer Science",
   focus: "Building scalable, secure, and beautiful mobile apps",
-  tools: ["Flutter", "Firebase", "Clean Architecture", "Bloc", "Provider"],
-  trainedAt: ["Orange Digital Center", "Machinfy Academy"],
-  achievements: ["ICPC 2022 Participant", "Udemy Flutter Advanced"],
+  tools: ["Flutter", "Firebase", "Bloc", "Provider", "Clean Architecture"],
+  achievements: ["ICPC 2022", "Udemy Advanced Flutter", "Published Apps"],
   openToWork: true,
 );
