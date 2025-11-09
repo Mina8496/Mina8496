@@ -12,7 +12,11 @@
 ---
 
 ### 💼 About Me
-
+- 🔭 Currently working as a Senior Flutter developer
+- 🌐 Check out my projects at [My Portfolio](https://www.compiled-thoughts.tech/about)
+- 💬 Ask me about Flutter and Dart
+- 📫 Reach me at minakamil.dev8@gmail.com
+- 📄 Learn more about my experiences [here](https://drive.google.com/file/d/172l4bZZRmdfSB5dM6Gy9lSXt9XPnjaSO/view?usp=sharing)
 I'm a **Computer Science graduate** and **professional Flutter developer** with hands-on experience in developing cross-platform mobile apps using **Flutter, Firebase, and modern clean architecture**.  
 Passionate about writing clean, maintainable code and building applications that deliver performance, scalability, and beautiful UI/UX.
 
@@ -25,7 +29,9 @@ I build real-world apps that combine **creativity, solid architecture, and produ
 
 | Area | Skills |
 |------|---------|
+| **Flutter Development:** | Expert in developing mobile applications using Flutter. |
 | **Programming Languages** | Dart, JavaScript, C++, Java, Python, HTML, CSS, PHP |
+| **Bloc/Cubit State Management:** | Experienced in state management with Bloc/Cubit architecture|
 | **Frameworks & Architecture** | Flutter, Bloc, Cubit, Provider, MVC, MVVM, Clean Architecture |
 | **Backend & Databases** | Firebase, Supabase, MySQL, SQLite, Hive, Shared Preferences |
 | **APIs & Integrations** | RESTful APIs, Stripe, PayPal, Paymob, Third-Party SDKs |
