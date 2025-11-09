@@ -2,8 +2,10 @@
 👋 Hi there, I'm <span style="color:#00bcd4">Mina Kamil</span>  
 🚀 Senior Flutter Developer
 </h2>
-<h3 align="center">Flutter Developer | Mobile App Developer | Software Developer
-</h3>
+
+<h3 align="center">Flutter Developer | Mobile App Developer | Software Developer</h3>
+
+<p align="center">I am passionate about building beautiful, high-performance cross-platform applications.</p>
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="developer gif"/>
 </p>
