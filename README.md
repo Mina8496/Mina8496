@@ -115,6 +115,17 @@ Graduation Project: Personality Pattern Analysis App (Flutter + AI NLP)
 Status: Military service completed  
 
 ---
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Ikyrillos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ikyrillos&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikyrillos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Favorite Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Things%20don%27t%20turn%20up%20in%20this%20world%20until%20somebody%20turns%20them%20up.&author=James%20A.%20Garfield)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ikyrillos&icon=0&color=3)](https://visitcount.itsvg.in)
+---
 
 ### 🧩 Developer Snapshot
 
