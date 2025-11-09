@@ -17,7 +17,8 @@
 - 💬 Ask me about Flutter and Dart
 - 📫 Reach me at minakamil.dev8@gmail.com
 - 📄 Learn more about my experiences [here](https://drive.google.com/file/d/172l4bZZRmdfSB5dM6Gy9lSXt9XPnjaSO/view?usp=sharing)
-I'm a **Computer Science graduate** and **professional Flutter developer** with hands-on experience in developing cross-platform mobile apps using **Flutter, Firebase, and modern clean architecture**.  
+  
+#I'm a **Computer Science graduate** and **professional Flutter developer** with hands-on experience in developing cross-platform mobile apps using **Flutter, Firebase, and modern clean architecture**.  
 Passionate about writing clean, maintainable code and building applications that deliver performance, scalability, and beautiful UI/UX.
 
 I've trained with **Orange Digital Center** and **Machinfy Academy**, participated in **ICPC programming contests**, and completed multiple professional **Flutter certifications**.  
