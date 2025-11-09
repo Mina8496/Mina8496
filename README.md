@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1a237e&height=120&section=header&text=👋 Hi there,%20I'm%20🚀Senior Flutter Developer&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1a237e&height=120&section=header&text=%20👋Hi there,%20I'm%20🚀Senior Flutter Developer&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
 
 <!-- <h2 align="center">
 👋 Hi there, I'm <span style="color:#00bcd4">Mina Kamil</span>  
