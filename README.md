@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1a237e&height=120&section=header&text=Mina%20I'm%20🚀Kamil&fontSize=40&fontColor=fff" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1a237e&height=120&section=header&text=👋 Hi there,%20I'm%20Mian%kamil🚀Senior&fontSize=40&fontColor=fff" width="100%">
 
 
 <!-- <h2 align="center">
