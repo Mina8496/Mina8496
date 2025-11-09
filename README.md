@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1a237e&height=120&section=header&text=👋%20Hi%20there,%20I'm%20Mina%20Kamil%20🚀%20Senior%20Flutter%20Developer&fontSize=32&fontColor=fff&animation=fadeIn" width="100%">
 
-<h2 align="center">
+<!-- <h2 align="center">
 👋 Hi there, I'm <span style="color:#00bcd4">Mina Kamil</span>  
 🚀 Senior Flutter Developer
 </h2>
-
+ -->
 <h3 align="center">Flutter Developer | Mobile App Developer | Software Developer</h3>
 
 <p align="center">I am passionate about building beautiful, high-performance cross-platform applications.</p>
