@@ -20,7 +20,7 @@ I focus on **clean architecture**, **modern UI**, and **smooth user experience**
 
 - 🔭 Currently working as a Senior Flutter Developer  
 - 💬 Ask me about Flutter, Firebase, and Clean Architecture  
-- 🌐 Portfolio: [compiled-thoughts.tech](https://www.compiled-thoughts.tech/about)  
+- 🌐 Portfolio: [Mina_kamil_web](https://mina8496.github.io/)  
 - 📫 Email: [minakamil.dev8@gmail.com](mailto:minakamil.dev8@gmail.com)  
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/172l4bZZRmdfSB5dM6Gy9lSXt9XPnjaSO/view?usp=sharing)
 
