@@ -22,7 +22,7 @@ I focus on **clean architecture**, **modern UI**, and **smooth user experience**
 - 💬 Ask me about Flutter, Firebase, and Clean Architecture  
 - 🌐 Portfolio: [Mina_kamil_web](https://mina8496.github.io/)  
 - 📫 Email: [minakamil.dev8@gmail.com](mailto:minakamil.dev8@gmail.com)  
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/172l4bZZRmdfSB5dM6Gy9lSXt9XPnjaSO/view?usp=sharing)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1kyQe1CEshc8VpO-g-tCjTb99NQLVHrVj/view?usp=sharing)
 
 ---
 
