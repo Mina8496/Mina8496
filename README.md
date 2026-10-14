@@ -1,146 +1,153 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1a237e&height=120&section=header&text=👋%20Hi%20there,%20I'm%20Mina%20Kamil%20🚀%20Senior%20Flutter%20Developer&fontSize=32&fontColor=fff&animation=fadeIn" width="100%">
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<!-- <h2 align="center">
-👋 Hi there, I'm <span style="color:#00bcd4">Mina Kamil</span>  
-🚀 Senior Flutter Developer
-</h2>
- -->
-<h3 align="center">Flutter Developer | Mobile App Developer | Software Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=220&section=header&text=Mina%20Kamil%20Fahmy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%20Firebase&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<p align="center">I am passionate about building beautiful, high-performance cross-platform applications.</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="developer gif"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mina%2C+a+Flutter+Developer;I+build+and+publish+apps+on+Google+Play+%F0%9F%93%B1;Clean+Architecture+%7C+Bloc%2FCubit+%7C+Riverpod;Firebase+%7C+REST+APIs+%7C+Payment+Gateways;On-device+ML+with+TensorFlow+Lite+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 💼 About Me
-I'm a **Computer Science graduate** and **professional Flutter developer** passionate about building elegant, high-performance, and scalable mobile applications.  
-I focus on **clean architecture**, **modern UI**, and **smooth user experience** with real production apps published on Google Play.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mina--kamil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-kamil/)
+[![Gmail](https://img.shields.io/badge/Email-minakamil.dev8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minakamil.dev8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-13B9FD?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
-- 🔭 Currently working as a Senior Flutter Developer  
-- 💬 Ask me about Flutter, Firebase, and Clean Architecture  
-- 🌐 Portfolio: [Mina_kamil_web](https://mina8496.github.io/)  
-- 📫 Email: [minakamil.dev8@gmail.com](mailto:minakamil.dev8@gmail.com)  
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1kyQe1CEshc8VpO-g-tCjTb99NQLVHrVj/view?usp=sharing)
+![Profile Views](https://komarev.com/ghpvc/?username=mina8496&label=Profile%20Views&color=02569B&style=flat-square)
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 👨‍💻 About Me
 
-#### 🌟 [**Aner & Astaner App**](https://play.google.com/store/apps/details?id=com.minakamil.dev.aner_astaner)
-Christian educational quiz and verse-ordering app with Firebase, music, drag & drop, and leaderboard.  
-**Tech:** Flutter, Firebase, Provider, Imgbb API  
-
----
-
-#### 🍕 [**King Slice**](https://play.google.com/store/apps/details?id=com.kingslice_pizza.app)
-Food ordering app with responsive UI, Google & Apple auth, and integrated payments.  
-**Tech:** Flutter, Dart, Dio, Riverpod, Go Router  
+- 📱 Flutter developer who **published apps on Google Play**
+- 🏗️ I build apps with **Clean Architecture** and **Bloc/Cubit** or **Riverpod**
+- 🔥 Working with **Firebase**, **REST APIs**, and **payment gateways** (Stripe, PayPal, Paymob)
+- 🤖 Built an **on-device plant disease classifier** with **TensorFlow Lite**
+- ⚙️ Basic backend with **Node.js / Express**
+- 📍 Based in **New Cairo, Egypt**
+- 💼 Freelance Flutter Developer since **2024**
 
 ---
 
-#### 🐟 [**Alostora Seafood**](https://play.google.com/store/apps/details?id=com.alostora_seafood.app)
-Restaurant app for seafood delivery with full eCommerce backend.  
-**Tech:** Flutter, Dart, Firebase, RESTful APIs  
+## 🛠️ Tech Stack
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🧠 State Management & Architecture
+![Bloc](https://img.shields.io/badge/Bloc%2FCubit-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6F00?style=for-the-badge)
+
+### ☁️ Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FF9800?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFB300?style=for-the-badge)
+
+### 🔌 APIs, Payments & AI
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Paymob](https://img.shields.io/badge/Paymob-1E88E5?style=for-the-badge)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-#### 🧭 [**Traveling App**](https://github.com/MinaKamil/Traveling_app)
-Travel guide with trip planning, Google Maps, and recommendations.  
-**Tech:** Flutter, Firebase, REST APIs  
+## 🚀 Featured Projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-#### 🗣️ [**Language Learning App**](https://github.com/MinaKamil/Language-Learning-App)
-Interactive language learning app with quizzes and progress tracking.  
-**Tech:** Flutter, Firebase  
+### 🌱 MyFarm — AI Plant Health & Farming Assistant
+*Client project • Oct 2026 – Present*
 
----
+- Plant identification & health analysis from images
+- **Plant.id v3 API**: disease results, confidence scores, localized care info
+- Clean Architecture (repositories + use cases) with **Bloc/Cubit & GetX**
+- Firebase Auth + Firestore, collaborative **group notes**
+- Arabic disease info, **text-to-speech**, weather, caching & task management
 
-### 🧠 Technical Skills
+`Flutter` `Dart` `Plant.id API` `Firebase` `Bloc/Cubit` `Hive`
 
-| Area | Skills |
-|------|---------|
-| **Mobile Development:** | Flutter, Dart, Android, iOS |
-| **State Management:** | Bloc, Cubit, Provider, Riverpod |
-| **Architecture:** | MVC, MVVM, Clean Architecture |
-| **Backend & Databases:** | Firebase, Supabase, MySQL, SQLite, Hive |
-| **APIs & Integrations:** | RESTful APIs, Stripe, PayPal, Paymob |
-| **UI/UX & Design:** | Responsive Design, Animations, Lottie, Rive, Figma |
-| **Tools:** | Git, GitHub, VS Code, Android Studio, Postman, CI/CD |
-| **Other Languages:** | JavaScript, C++, Java, Python, PHP, HTML, CSS |
+    </td>
+    <td width="50%" valign="top">
 
----
+### 📖 Bible Learning & Quiz App
+*Client project • Sep 2025* — [▶️ Google Play](YOUR_GOOGLE_PLAY_LINK)
 
-## 🧩 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- Bible reading, interactive quizzes, and exam management
+- Email/password & **Google Sign-In**, profiles, role-based access
+- Exam scheduling, result tracking, and **Excel export**
+- Management screens for churches, chapters, and quiz content
+- Audio feedback and responsive **Arabic** UI
 
----
+`Flutter` `Dart` `Firebase` `GetX` `Google Sign-In`
 
-### 🏆 Certifications & Achievements
-- **Flutter Advanced – Clean Architecture & MVVM (Udemy)**  
-- **Mastering Flutter: Responsive & Adaptive UI (Udemy)**  
-- **Flutter Payment Integration – Stripe, PayPal, Paymob (Udemy)**  
-- **Google Maps Integration in Flutter (Udemy)**  
-- **Flutter Workshops – Orange Digital Center & Machinfy Academy**  
-- **ICPC Programming Contest Participant (2022)**  
+    </td>
+  </tr>
+</table>
 
----
+### 📦 More Projects
 
-### 🎓 Education
-**Bachelor of Science in Computers and Information**  
-Arab Open University (AOU Egypt) – *2019–2023*  
-GPA: 2.73 (Good)  
-Graduation Project: Personality Pattern Analysis App (Flutter + AI NLP)  
-Status: Military service completed  
+| Project | What it does | Tech |
+|---|---|---|
+| ✅ **Tasks Management App** | Task manager with local persistence, loading / success / error / empty states | Flutter, Bloc/Cubit, SQLite, Clean Architecture |
+| 💬 **Scholar Chat** | Real-time messaging app with Firebase auth and live message streaming | Flutter, Firebase Auth, Firestore |
+| 💳 **Checkout Payment App** | Stripe & Paymob payment flows with REST API communication | Flutter, Stripe, Paymob, Bloc/Cubit |
+| 🛍️ **Store App** | Products from Fake Store API, product grid, update form, model parsing tests | Flutter, REST APIs, HTTP, JSON |
+| 📰 **News App** | API-driven news with categories and search | Flutter, Dio, Cubit |
+
+> 🔗 Source code for each project is on my [GitHub](https://github.com/mina8496?tab=repositories).
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinaKamil&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinaKamil&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaKamil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
-</p>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mina8496&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina8496&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mina8496&theme=tokyonight&hide_border=true" alt="streak"/>
+
+</div>
 
 ---
 
-## 🧭 Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Things%20don%27t%20turn%20up%20in%20this%20world%20until%20somebody%20turns%20them%20up.&author=James%20A.%20Garfield)
+## 🎓 Education
+
+**B.Sc. in Computers and Information** — Arab Open University (AOU Egypt) • 2019 – 2023
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MinaKamil&icon=0&color=3)](https://visitcount.itsvg.in)
+## 🤝 Let's Work Together
 
----
+I'm open to **freelance Flutter projects** and new opportunities.
+If you have an app idea, let's talk! 👇
 
-### 🧩 Developer Snapshot
+<div align="center">
 
-```dart
-final minaKamil = Developer(
-  role: "Senior Flutter & Firebase Developer",
-  degree: "B.Sc. Computer Science",
-  focus: "Building scalable, secure, and beautiful mobile apps",
-  tools: ["Flutter", "Firebase", "Bloc", "Provider", "Clean Architecture"],
-  achievements: ["ICPC 2022", "Udemy Advanced Flutter", "Published Apps"],
-  openToWork: true,
-);
+[![LinkedIn](https://img.shields.io/badge/Chat%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-kamil/)
+[![Gmail](https://img.shields.io/badge/Send%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minakamil.dev8@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
