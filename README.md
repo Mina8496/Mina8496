@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=220&section=header&text=Mina%20Kamil%20Fahmy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Flutter%20Developer&descAlignY=58&descSize=25" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mina%2C+a+Flutter+Developer;I+build+and+publish+apps+on+Google+Play+%F0%9F%93%B1;Clean+Architecture+%7C+Bloc%2FCubit+%7C+Riverpod;Firebase+%7C+REST+APIs+%7C+Payment+Gateways;On-device+ML+with+TensorFlow+Lite+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mina%2C+a+Flutter+Developer;I+build+and+publish+apps+on+Google+Play+%F0%9F%93%B1;Clean+Architecture+%7C+Bloc%2FCubit+%7C+Riverpod+%7C+Provider;Firebase+%7C+REST+APIs+%7C+Payment+Gateways;On-device+ML+with+TensorFlow+Lite+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
