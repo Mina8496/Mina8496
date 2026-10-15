@@ -11,9 +11,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mina--kamil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-kamil/)
 [![Gmail](https://img.shields.io/badge/Email-minakamil.dev8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minakamil.dev8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-13B9FD?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-13B9FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mina8496.github.io)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mina8496&label=Profile%20Views&color=02569B&style=flat-square)
+![Mina Kamil – CV](https://drive.google.com/file/d/1MFIaQgvamXVSYsL1gyvDwBUUpeiGmHJT/view?usp=sharing)
 
 </div>
 
@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 - 📱 Flutter developer who **published apps on Google Play**
-- 🏗️ I build apps with **Clean Architecture** and **Bloc/Cubit** or **Riverpod**
+- 🏗️ I build apps with **Clean Architecture** and **Bloc/Cubit** or **Provider** or **Riverpod**
 - 🔥 Working with **Firebase**, **REST APIs**, and **payment gateways** (Stripe, PayPal, Paymob)
 - 🤖 Built an **on-device plant disease classifier** with **TensorFlow Lite**
 - ⚙️ Basic backend with **Node.js / Express**
@@ -89,7 +89,7 @@
     <td width="50%" valign="top">
 
 ### 📖 Bible Learning & Quiz App
-*Client project • Sep 2025* — [▶️ Google Play](YOUR_GOOGLE_PLAY_LINK)
+*Client project • Sep 2025* — [▶️ Google Play](https://play.google.com/store/apps/details?id=com.minakamil.dev.aner_astaner&pcampaignid=web_share)
 
 - Bible reading, interactive quizzes, and exam management
 - Email/password & **Google Sign-In**, profiles, role-based access
