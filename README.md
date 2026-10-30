@@ -1,153 +1,59 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
+# Hi, I'm Mina Kamil
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=220&section=header&text=Mina%20Kamil%20Fahmy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Flutter%20Developer&descAlignY=58&descSize=25" width="100%" alt="header"/>
+### Flutter Developer | Mobile App Developer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mina%2C+a+Flutter+Developer;I+build+and+publish+apps+on+Google+Play+%F0%9F%93%B1;Clean+Architecture+%7C+Bloc%2FCubit+%7C+Riverpod+%7C+Provider;Firebase+%7C+REST+APIs+%7C+Payment+Gateways;On-device+ML+with+TensorFlow+Lite+%F0%9F%A4%96" alt="Typing SVG" />
-</a>
+I build production-ready Flutter apps with **Clean Architecture** and **Bloc/Cubit**, backed by **Firebase**, **REST APIs**, payment gateways and on-device machine learning. My apps are published on Google Play, and I'm available for freelance projects.
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mina--kamil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-kamil/)
-[![Gmail](https://img.shields.io/badge/Email-minakamil.dev8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minakamil.dev8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-13B9FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mina8496.github.io)
-
-![Mina Kamil – CV](https://drive.google.com/file/d/1MFIaQgvamXVSYsL1gyvDwBUUpeiGmHJT/view?usp=sharing)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mina8496.github.io-0468D7?style=flat)](https://mina8496.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mina--kamil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-kamil/)
+[![Email](https://img.shields.io/badge/Email-mena.m4077%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mena.m4077@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-2EA44F?style=flat)](https://mina8496.github.io/Mina_Kamil_Flutter_Developer_CV.pdf)
 
 ---
 
-## 👨‍💻 About Me
-
-- 📱 Flutter developer who **published apps on Google Play**
-- 🏗️ I build apps with **Clean Architecture** and **Bloc/Cubit** or **Provider** or **Riverpod**
-- 🔥 Working with **Firebase**, **REST APIs**, and **payment gateways** (Stripe, PayPal, Paymob)
-- 🤖 Built an **on-device plant disease classifier** with **TensorFlow Lite**
-- ⚙️ Basic backend with **Node.js / Express**
-- 📍 Based in **New Cairo, Egypt**
-- 💼 Freelance Flutter Developer since **2024**
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### 🧠 State Management & Architecture
-![Bloc](https://img.shields.io/badge/Bloc%2FCubit-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6F00?style=for-the-badge)
-
-### ☁️ Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FF9800?style=for-the-badge&logo=firebase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFB300?style=for-the-badge)
-
-### 🔌 APIs, Payments & AI
-![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
-![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-![Paymob](https://img.shields.io/badge/Paymob-1E88E5?style=for-the-badge)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌱 MyFarm — AI Plant Health & Farming Assistant
-*Client project • Oct 2026 – Present*
-
-- Plant identification & health analysis from images
-- **Plant.id v3 API**: disease results, confidence scores, localized care info
-- Clean Architecture (repositories + use cases) with **Bloc/Cubit & GetX**
-- Firebase Auth + Firestore, collaborative **group notes**
-- Arabic disease info, **text-to-speech**, weather, caching & task management
-
-`Flutter` `Dart` `Plant.id API` `Firebase` `Bloc/Cubit` `Hive`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📖 Bible Learning & Quiz App
-*Client project • Sep 2025* — [▶️ Google Play](https://play.google.com/store/apps/details?id=com.minakamil.dev.aner_astaner&pcampaignid=web_share)
-
-- Bible reading, interactive quizzes, and exam management
-- Email/password & **Google Sign-In**, profiles, role-based access
-- Exam scheduling, result tracking, and **Excel export**
-- Management screens for churches, chapters, and quiz content
-- Audio feedback and responsive **Arabic** UI
-
-`Flutter` `Dart` `Firebase` `GetX` `Google Sign-In`
-
-    </td>
-  </tr>
-</table>
-
-### 📦 More Projects
+## Featured projects
 
 | Project | What it does | Tech |
 |---|---|---|
-| ✅ **Tasks Management App** | Task manager with local persistence, loading / success / error / empty states | Flutter, Bloc/Cubit, SQLite, Clean Architecture |
-| 💬 **Scholar Chat** | Real-time messaging app with Firebase auth and live message streaming | Flutter, Firebase Auth, Firestore |
-| 💳 **Checkout Payment App** | Stripe & Paymob payment flows with REST API communication | Flutter, Stripe, Paymob, Bloc/Cubit |
-| 🛍️ **Store App** | Products from Fake Store API, product grid, update form, model parsing tests | Flutter, REST APIs, HTTP, JSON |
-| 📰 **News App** | API-driven news with categories and search | Flutter, Dio, Cubit |
+| **MyFarm: AI Plant Health & Farming Assistant** (client project, Sep 2026 to present) | Identifies plants and analyzes their health from photos, with disease results, confidence scores, Arabic care information and text-to-speech. Private client project, so the source code is not public. | Flutter, Plant.id API, Firebase, Cloud Firestore, Bloc/Cubit, GetX, Hive, Clean Architecture |
+| [**Bible Learning & Quiz App (Aner & Astaner)**](https://play.google.com/store/apps/details?id=com.minakamil.dev.aner_astaner) (client project, May 2026 to Aug 2026) | Bible reading, interactive quizzes, exam management, role-based access and a leaderboard. On Google Play. | Flutter, Firebase, Cloud Firestore, GetX, Google Sign-In |
+| [**Bookly**](https://github.com/Mina8496/clean_arch_bookly_app) | Book browser on the Google Books API with Data/Domain/Presentation layers and Hive caching. | Flutter, Cubit, GoRouter, get_it, Dio, Hive |
+| [**Tasks App**](https://github.com/Mina8496/tasks_app_clean_architecture) | Task manager with Clean Architecture, SQLite persistence and loading/success/error/empty states. | Flutter, Bloc, SQLite, REST APIs |
+| [**Scholar Chat**](https://github.com/Mina8496/scholar_chat) | Real-time messaging with Firebase authentication and live Firestore updates. | Flutter, Firebase Auth, Cloud Firestore |
+| [**Checkout Payment (Stripe)**](https://github.com/Mina8496/checkout_payment) and [**(Paymob)**](https://github.com/Mina8496/checkout_payment_by_paymab) | Payment flows with Clean Architecture, REST APIs and loading/error handling. | Flutter, Stripe, Paymob, Bloc/Cubit |
 
-> 🔗 Source code for each project is on my [GitHub](https://github.com/mina8496?tab=repositories).
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mina8496&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina8496&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mina8496&theme=tokyonight&hide_border=true" alt="streak"/>
-
-</div>
+More projects are on my [repositories page](https://github.com/Mina8496?tab=repositories) and in the [portfolio](https://mina8496.github.io/#projects).
 
 ---
 
-## 🎓 Education
+## Skills
 
-**B.Sc. in Computers and Information** — Arab Open University (AOU Egypt) • 2019 – 2023
+| Area | Skills |
+|---|---|
+| **Mobile** | Flutter, Dart, Kotlin (Android native), iOS (intermediate) |
+| **Architecture and state** | Clean Architecture, Bloc/Cubit, Provider, Riverpod, GetX, Repository pattern |
+| **Backend and data** | Firebase (Authentication, Cloud Firestore), REST APIs, SQLite, Hive, Node.js and Express (basics) |
+| **Integrations and tools** | Stripe, PayPal, Paymob, TensorFlow Lite, Plant.id API, Dio, Postman, AdMob, Git and GitHub |
 
 ---
 
-## 🤝 Let's Work Together
+## Experience
 
-I'm open to **freelance Flutter projects** and new opportunities.
-If you have an app idea, let's talk! 👇
+- **Freelance Flutter Developer** (Jun 2025 to present): built and published Flutter apps on Google Play, integrated REST APIs and payment gateways, and delivered production-ready apps with Clean Architecture and Bloc/Cubit or Riverpod.
+- **Flutter training and self-learning** (Oct 2022 to Jun 2024): Flutter workshops and self-study, with hands-on practice projects.
+- **Mandatory military service**, Egyptian Armed Forces (Jun 2024 to Jun 2025).
 
-<div align="center">
+## Education
 
-[![LinkedIn](https://img.shields.io/badge/Chat%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-kamil/)
-[![Gmail](https://img.shields.io/badge/Send%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minakamil.dev8@gmail.com)
+**B.Sc. in Computers and Information**, Arab Open University (AOU Egypt), 2019 to 2023. Grade: Very Good.
+Graduation project: Personality Analysis System (Flutter and AI).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=120&section=footer" width="100%" alt="footer"/>
+## Certifications and achievements
 
-</div>
+- Flutter Workshop (42 hours, Grade 100%), Orange Digital Center (Oct 2022)
+- Udemy (2026): Deep Dive into Clean Architecture in Flutter, Flutter Payment Integration: Stripe, PayPal and More, Master Git and GitHub
+- Certificate of Achievement, ICPC ECPC Qualifications Collegiate Programming Contest (Aug 2022)
+
+---
+
+Want to work together? Email me at [mena.m4077@gmail.com](mailto:mena.m4077@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/mina-kamil/).
